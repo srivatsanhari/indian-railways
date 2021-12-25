@@ -23188,7 +23188,7 @@
       "geometry": {
         "type": "Point",
         'properties': {
-'color': '#F7455D'
+"color": "#F7455D"
 },
         "coordinates": [
           80.2615358,
