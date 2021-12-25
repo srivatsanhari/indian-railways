@@ -23182,12 +23182,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Chennai Egmore",
-        "id": "MS"
+        "Sales Order": "<a href='#'>AAAAAAA</a>",
+        "id": "MS",
+"color": "#F7455D"
       },
       "geometry": {
         "type": "Point",
-        'properties': {
+        "properties": {
 "color": "#F7455D"
 },
         "coordinates": [
